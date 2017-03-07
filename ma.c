@@ -6,3 +6,10 @@
 added by ishaque
 i am again adding 
 printf("""jsdqwjdqdjqjdqo)
+int amin()
+{
+
+
+
+
+}
